@@ -7,10 +7,6 @@ A simple and responsive recipe page, ideal for displaying dishes and their respe
 - **HTML** – Page structure
 - **CSS** – Styling and responsive layout
 
-## 📸 Screenshot
-
-*(Add an image or GIF of the running project here, if possible.)*
-
 ## 🎯 Features
 
 - Display recipes with ingredients and preparation steps.
